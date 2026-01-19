@@ -12,11 +12,11 @@
   - Essential libraries: see `requirements.txt` for all the essential dependencies 
 
 - **Model and Dataset Requirements**
-  -  The pre trained model used for transfer learning in emo_affectnet.py was develped by ryumina et al. and is available at "https://github.com/ElenaRyumina/EMO-AffectNetModel"
-  -  The multimodal dataset can be accessed by applying in the following link at "https://zenodo.org/records/11194571"
+  -  The pre trained model used for transfer learning in 8.emo_affectnet.py was develped by Ryumina et al. and is available at "https://github.com/ElenaRyumina/EMO-AffectNetModel"
+  -  The multimodal dataset developed by Yang et al. can be accessed by applying in the following link at "https://zenodo.org/records/11194571"
     
 - **Execution Order**  
-  - Run the scripts in "code_Leveraging_Multimodal_Dataset_for_Enhancing_Mixed_Emotion_Recognition" folder sequentially as outlined below to achieve optimal pipeline results.
+  - Run the scripts sequentially as outlined below to achieve optimal pipeline results.
 ---
 ## Pipeline Structure
 
